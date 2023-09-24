@@ -32,13 +32,13 @@
 
 - ☁️ I've keen interest in Machine Learning. So,I'm learning **Tensor Flow**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode](https://fadhlanarrizal.hashnode.dev/)
 
 - 💬 Ask me about **Python, Django, Machine Learning, TensorFlow**
 
 - 📫 Feel free to reach me out **fadhlanarrizal@gmail.com**
 
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/).
 <!--Intro end-->
 
 
