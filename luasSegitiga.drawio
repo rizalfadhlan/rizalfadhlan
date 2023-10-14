@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-10-14T04:35:17.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="21.8.2" etag="ZPoqz-t1hbBo4o0wVKnr" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-14T04:41:25.696Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="D1Z-fDrHqa1LftAk7JuJ" version="21.8.2" type="github">
   <diagram name="Page-1" id="9uSY1wAiMNEY8qPot67p">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zVkuW_fbBakQHGrYJu1Z-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVkuW_fbBakQHGrYJu1Z-1" target="zVkuW_fbBakQHGrYJu1Z-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVkuW_fbBakQHGrYJu1Z-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVkuW_fbBakQHGrYJu1Z-2" value="Finish" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVkuW_fbBakQHGrYJu1Z-3" value="Definisi Masalah:&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Buatlah algoritma untuk mencari luas segitiga&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zVkuW_fbBakQHGrYJu1Z-4" value="Analisi masalah:&lt;br&gt;Problem : Mencari luas segitiga&lt;br&gt;Input : Alas dan Luas&lt;br&gt;Output : Luas Segitiga" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="230" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zVkuW_fbBakQHGrYJu1Z-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVkuW_fbBakQHGrYJu1Z-5" target="zVkuW_fbBakQHGrYJu1Z-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVkuW_fbBakQHGrYJu1Z-5" value="Input : a" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVkuW_fbBakQHGrYJu1Z-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zVkuW_fbBakQHGrYJu1Z-6" target="zVkuW_fbBakQHGrYJu1Z-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVkuW_fbBakQHGrYJu1Z-6" value="Input : t" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="314" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVkuW_fbBakQHGrYJu1Z-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVkuW_fbBakQHGrYJu1Z-7" target="zVkuW_fbBakQHGrYJu1Z-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVkuW_fbBakQHGrYJu1Z-7" value="L = (a*t)/2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVkuW_fbBakQHGrYJu1Z-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zVkuW_fbBakQHGrYJu1Z-8" target="zVkuW_fbBakQHGrYJu1Z-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVkuW_fbBakQHGrYJu1Z-8" value="Print : L" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="498" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
