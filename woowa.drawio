@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T07:12:22.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 OPR/103.0.0.0" version="22.0.6" etag="lW85zi5O2HFnZIxJKpVO" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T07:38:25.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 OPR/103.0.0.0" etag="tZtvxDqA1aJcattBCcQE" version="22.0.6" type="github">
   <diagram name="Page-1" id="bYcUzKRCuM1OR8TnrbX-">
-    <mxGraphModel>
+    <mxGraphModel dx="740" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Pjs8NCvfbtdop9xzpvLF-7" value="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pjs8NCvfbtdop9xzpvLF-2" target="Pjs8NCvfbtdop9xzpvLF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pjs8NCvfbtdop9xzpvLF-9" value="false" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pjs8NCvfbtdop9xzpvLF-2" target="Pjs8NCvfbtdop9xzpvLF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pjs8NCvfbtdop9xzpvLF-2" value="if report" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Pjs8NCvfbtdop9xzpvLF-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pjs8NCvfbtdop9xzpvLF-6" target="Pjs8NCvfbtdop9xzpvLF-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pjs8NCvfbtdop9xzpvLF-6" value="tampilkan semua report" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pjs8NCvfbtdop9xzpvLF-8" value="tidak menampilkan apa-apa" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pjs8NCvfbtdop9xzpvLF-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pjs8NCvfbtdop9xzpvLF-14" target="Pjs8NCvfbtdop9xzpvLF-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pjs8NCvfbtdop9xzpvLF-14" value="user pilih status" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pjs8NCvfbtdop9xzpvLF-19" value="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pjs8NCvfbtdop9xzpvLF-16" target="Pjs8NCvfbtdop9xzpvLF-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pjs8NCvfbtdop9xzpvLF-21" value="false" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pjs8NCvfbtdop9xzpvLF-16" target="Pjs8NCvfbtdop9xzpvLF-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pjs8NCvfbtdop9xzpvLF-16" value="status" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Pjs8NCvfbtdop9xzpvLF-18" value="tampilkan pesan yang sukses" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pjs8NCvfbtdop9xzpvLF-20" value="tampilkan pesan yang gagal" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
