@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T06:00:24.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0" etag="vmHSnOiY4w0uaarAG21u" version="22.1.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-12-03T02:26:06.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="Lhf-Ndtqs1FJAGDfDD0W" version="22.1.5" type="github" pages="10">
   <diagram name="Page-1" id="_gtzQOfK1XCtEwZkUtam">
-    <mxGraphModel dx="1192" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="980" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -909,31 +909,39 @@
     </mxGraphModel>
   </diagram>
   <diagram name="P10 Praktikum" id="5NNnQ-CCBzSxn-af1gTc">
-    <mxGraphModel dx="722" dy="252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="980" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="sPlTysbXxBXm_h3lHbfD-0" />
         <mxCell id="sPlTysbXxBXm_h3lHbfD-1" parent="sPlTysbXxBXm_h3lHbfD-0" />
-        <mxCell id="sPlTysbXxBXm_h3lHbfD-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sPlTysbXxBXm_h3lHbfD-1" source="sPlTysbXxBXm_h3lHbfD-3" target="sPlTysbXxBXm_h3lHbfD-5">
+        <mxCell id="sPlTysbXxBXm_h3lHbfD-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="sPlTysbXxBXm_h3lHbfD-1" source="sPlTysbXxBXm_h3lHbfD-3" target="sPlTysbXxBXm_h3lHbfD-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sPlTysbXxBXm_h3lHbfD-3" value="start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="sPlTysbXxBXm_h3lHbfD-1">
+        <mxCell id="sPlTysbXxBXm_h3lHbfD-3" value="start" style="rounded=1;whiteSpace=wrap;html=1;" parent="sPlTysbXxBXm_h3lHbfD-1" vertex="1">
           <mxGeometry x="309.88" y="80" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hxsCgLXTDt2FfOvp8yqM-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sPlTysbXxBXm_h3lHbfD-1" source="sPlTysbXxBXm_h3lHbfD-5" target="sPlTysbXxBXm_h3lHbfD-11">
+        <mxCell id="hxsCgLXTDt2FfOvp8yqM-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="sPlTysbXxBXm_h3lHbfD-1" source="sPlTysbXxBXm_h3lHbfD-5" target="sPlTysbXxBXm_h3lHbfD-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sPlTysbXxBXm_h3lHbfD-5" value="integer totalNilai = 0,&lt;br&gt;integer jumlahData = 0" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=10;dy=10;" vertex="1" parent="sPlTysbXxBXm_h3lHbfD-1">
+        <mxCell id="sPlTysbXxBXm_h3lHbfD-5" value="integer totalNilai = 0,&lt;br&gt;integer jumlahData = 0" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=10;dy=10;" parent="sPlTysbXxBXm_h3lHbfD-1" vertex="1">
           <mxGeometry x="270.94" y="140" width="148.13" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sPlTysbXxBXm_h3lHbfD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sPlTysbXxBXm_h3lHbfD-1" source="sPlTysbXxBXm_h3lHbfD-11" target="sPlTysbXxBXm_h3lHbfD-13">
+        <mxCell id="sPlTysbXxBXm_h3lHbfD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="sPlTysbXxBXm_h3lHbfD-1" source="sPlTysbXxBXm_h3lHbfD-11" target="sPlTysbXxBXm_h3lHbfD-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sPlTysbXxBXm_h3lHbfD-11" value="&amp;nbsp; &amp;nbsp;float nilai" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=13;dy=10;" vertex="1" parent="sPlTysbXxBXm_h3lHbfD-1">
+        <mxCell id="sPlTysbXxBXm_h3lHbfD-11" value="&amp;nbsp; &amp;nbsp;float nilai" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=13;dy=10;" parent="sPlTysbXxBXm_h3lHbfD-1" vertex="1">
           <mxGeometry x="306.88" y="237" width="76.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sPlTysbXxBXm_h3lHbfD-13" value="&amp;nbsp;printf(&quot;Masukkan nilai (akhiri dengan -1 untuk menghitung rata-rata)&quot;)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="sPlTysbXxBXm_h3lHbfD-1">
+        <mxCell id="sPlTysbXxBXm_h3lHbfD-13" value="&amp;nbsp;printf(&quot;Masukkan nilai (akhiri dengan -1 untuk menghitung rata-rata)&quot;)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="sPlTysbXxBXm_h3lHbfD-1" vertex="1">
           <mxGeometry x="228.44" y="320" width="233.13" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pgw8SBD6dv8Dwx-EDJXa" name="Praktikum 11">
+    <mxGraphModel dx="980" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
