@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T07:21:17.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="H2-qNcBY5Q_X5x-O5dx7" version="22.1.11" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-12-26T07:29:39.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="xIW9y1ouRg5uePiDu-7T" version="22.1.11" type="github" pages="15">
   <diagram name="Page-1" id="_gtzQOfK1XCtEwZkUtam">
     <mxGraphModel dx="792" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1592,7 +1592,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8G4rZCTSRbVJVQsqU5K1" name="UAS sem 1">
-    <mxGraphModel dx="1345" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="769" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1716,7 +1716,7 @@
         <mxCell id="Vscd0iMIJTp5R2OMeOt3-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vscd0iMIJTp5R2OMeOt3-53" target="Vscd0iMIJTp5R2OMeOt3-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vscd0iMIJTp5R2OMeOt3-53" value="integer no, kode MK, nama MK, &lt;br&gt;SKS, NS, dan nilai" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;labelPosition=center;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="Vscd0iMIJTp5R2OMeOt3-53" value="integer no, kode MK, nama MK, &lt;br&gt;SKS, NS&lt;br&gt;string nilai" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;labelPosition=center;align=center;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="287.5" y="200" width="205" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Vscd0iMIJTp5R2OMeOt3-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vscd0iMIJTp5R2OMeOt3-57" target="Vscd0iMIJTp5R2OMeOt3-59">
